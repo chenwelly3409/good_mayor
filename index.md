@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+<title>直接幫柯文哲按讚</title>
 
-You can use the [editor on GitHub](https://github.com/chenwelly3409/good_mayor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenwelly3409/good_mayor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>直接幫柯文哲按讚</h1>
+<p>因該串討論留言過多，不容易尋找柯文哲本尊的留言，所以製作本頁讓大家輕鬆支持。</p>
+<iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FDoctorKoWJ%2Fposts%2F1100269360075043%3Fcomment_id%3D344789552615680%26reply_comment_id%3D2018279608454135&include_parent=true" width="580" height="290" allowTransparency="true"></iframe>
