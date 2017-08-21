@@ -7,3 +7,4 @@
 <p>另外 Pamela Yang 也似乎不是女生</p>
 <iframe src="https://www.facebook.com/NO.KMT.KMT.NO/posts/836783916489244" width="580" height="290"></iframe>
  
+酷
