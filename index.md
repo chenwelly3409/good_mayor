@@ -8,7 +8,5 @@
 ---> <a href="https://www.facebook.com/NO.KMT.KMT.NO/posts/836783916489244">詳細</a>
  
 
-</br>
-</br>
 ---
 > 本頁由![陳姓鄉民](https://www.facebook.com/permalink.php?story_fbid=10211869006698036&id=1156822568&notif_t=like&notif_id=1503309384149055)參考製作，只是好玩，絕無盈利！
